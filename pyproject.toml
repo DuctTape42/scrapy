@@ -25,6 +25,8 @@ deep_translator = "*"
 pytesseract = "*"
 pillow = "*"
 furl = "*"
+pycountry = "*"
+imgkit = "*"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "*"
